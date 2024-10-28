@@ -1,0 +1,20 @@
+p{
+    color: aquamarine;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    color: aquamarine;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+nav{
+    text-align: center;
+    color: brown;
+}
+a{
+    text-align: center;
+    color: brown;
+}
+/* *sempre no final da linha tem q ter ponto e virgula*/
